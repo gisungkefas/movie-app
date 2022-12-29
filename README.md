@@ -1,3 +1,3 @@
-API_URL="http://api.themoviedb.org/3/movie/popular?api_key=bcc4ff10c4ff10c2939665232d75d8bf0ec093"
+API_URL= "https://api.themoviedb.org/3/movie/popular?api_key=ad9fa007db5bd528a1475a5fb75682de"
 API_IMG="https://image.tmdb.org/t/p/w500/"
-APT_SEARCH=""http://api.themoviedb.org/3/search/movie?api_key=bcc4ff10c4ff10c2939665232d75d8bf0ec093&query"
+APT_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=ad9fa007db5bd528a1475a5fb75682de&query"
