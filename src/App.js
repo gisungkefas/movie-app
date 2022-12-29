@@ -20,12 +20,14 @@ function App() {
     }, [])
 
   return (
-    <div className="container">
-      <div className="grid">
-          {example.map( (movieReq) =>
+      <>
+        <div className="container">
+            <div className="grid">
+                {example.map( (movieReq) =>
               <MovieBox key={movieReq.id} {...movieReq}/>)}
-      </div>
-    </div>
+            </div>
+        </div>
+      </>
   );
 }
 
